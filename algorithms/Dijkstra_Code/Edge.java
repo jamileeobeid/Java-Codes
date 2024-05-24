@@ -1,4 +1,3 @@
-package W6_Deneme;
 public class Edge<E> implements Comparable<Edge<E>> {
     private double weight;
     private WVertex<E> from;

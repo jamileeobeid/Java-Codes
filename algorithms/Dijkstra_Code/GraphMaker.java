@@ -1,8 +1,8 @@
 /**
  * A helper class that makes weighted graphs suitable for testing algorithms.
  * 
- * @author GCCIS Faculty
  */
+
 public class GraphMaker {
     /**
      * Returns a small example graph with a single connectec component.

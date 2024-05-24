@@ -1,9 +1,5 @@
-package W6_Deneme;
-
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class WAdjacencyGraph<E> implements WGraph<E> {
     //multiple vertices with a pair of information stored in it

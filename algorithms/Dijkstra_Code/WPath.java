@@ -1,4 +1,3 @@
-package W6_Deneme;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -7,7 +6,6 @@ import java.util.List;
  * total distance (accumulated edge weights). The path can be built forward or
  * backward.
  * 
- * @author GCCIS Faculty
  */
 public class WPath<E> {
     /**

@@ -1,4 +1,3 @@
-package W6_Deneme;
 public interface WGraph<E> {
     void add(E value);
     boolean contains(E value);
