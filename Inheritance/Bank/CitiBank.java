@@ -7,6 +7,7 @@ public class CitiBank implements Bank {
         return rate;
     }
     
+    //creating a setter
     public void setRateOfInterest(float rate) {
         this.rate = rate;
     }
