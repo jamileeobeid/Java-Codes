@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\jamil\\OneDrive\\Desktop\\RIT\\Year-1\\S2\\GCIS124\\class_codes\\javafx-sdk-21.0.2\\lib\\javafx.base.jar",
+        "c:\\Users\\jamil\\OneDrive\\Desktop\\RIT\\Year-1\\S2\\GCIS124\\class_codes\\javafx-sdk-21.0.2\\lib\\javafx.controls.jar",
+        "c:\\Users\\jamil\\OneDrive\\Desktop\\RIT\\Year-1\\S2\\GCIS124\\class_codes\\javafx-sdk-21.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Users\\jamil\\OneDrive\\Desktop\\RIT\\Year-1\\S2\\GCIS124\\class_codes\\javafx-sdk-21.0.2\\lib\\javafx.graphics.jar",
+        "c:\\Users\\jamil\\OneDrive\\Desktop\\RIT\\Year-1\\S2\\GCIS124\\class_codes\\javafx-sdk-21.0.2\\lib\\javafx.media.jar",
+        "c:\\Users\\jamil\\OneDrive\\Desktop\\RIT\\Year-1\\S2\\GCIS124\\class_codes\\javafx-sdk-21.0.2\\lib\\javafx.swing.jar",
+        "c:\\Users\\jamil\\OneDrive\\Desktop\\RIT\\Year-1\\S2\\GCIS124\\class_codes\\javafx-sdk-21.0.2\\lib\\javafx.web.jar",
+        "c:\\Users\\jamil\\OneDrive\\Desktop\\RIT\\Year-1\\S2\\GCIS124\\class_codes\\javafx-sdk-21.0.2\\lib\\javafx-swt.jar"
+    ]
+}
